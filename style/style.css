@@ -1,0 +1,16 @@
+body{
+    background-image: url(../image-js/bar.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    margin-top: 100px;
+    color: #00ffe8;
+    font-size: 70px;
+}
+h3{
+    margin-top: 80px;   
+    color: #00ffe8;
+    background-color: black;
+    font-size: 35px;
+}
